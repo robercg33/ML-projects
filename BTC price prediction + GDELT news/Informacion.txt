@@ -1,0 +1,4 @@
+La idea detrás de este proyecto es utilizar tanto los datos históricos del precio del Bitcoin como datos de noticias recopilados
+a través de distintas fuentes (GDELT de momento) para ayudar a hacer predicciones lo más precisas posibles sobre el precio del 
+Bitcoin. El proyecto está todavía sin terminar y queda mucho trabajo por hacer. De momento solo se ha hecho el análisis puramente
+utilizando las features relacionadas con el precio y transofrmaciones de las mismas.
